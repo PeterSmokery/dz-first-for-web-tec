@@ -1,0 +1,6 @@
+1.на протоколе https
+2.1.Запросы: 84
+  2.text/html; charset=UTF-8
+  3.last-modified: Wed, 25 May 2022 15:27:03 GMT
+  4.Запросы: 2(всего два):text-variable-full.woff2 ,text-medium.woff2
+  5.один не корректно ,а именно с https://www.googleadservices.com/pagead/conversion_async.js
